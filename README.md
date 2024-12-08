@@ -12,19 +12,6 @@ This project focuses on designing and implementing a content recommendation syst
 - **P.A. - Diagrama UML Projecte (Entrega final).pdf**: Final project UML diagram.
 - **README.md**: This file, providing an overview of the project.
 
-## Instructions
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/luciarevaliente/PA_Sistema_Recomanacio_Contingut.git
-    cd PA_Sistema_Recomanacio_Contingut
-    ```
-
-2. **Run the main script**:
-    ```bash
-    python Principal.py
-    ```
-
 ## Project Description
 
 The aim of this project is to design and implement a recommendation system that suggests new content to users based on their previous ratings, user profiles, and item characteristics. This involves using various algorithms and techniques to analyze and predict user preferences.
